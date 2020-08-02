@@ -1,0 +1,5 @@
+interface Student
+{
+	void show();
+
+}

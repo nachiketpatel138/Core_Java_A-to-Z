@@ -1,0 +1,6 @@
+interface Student
+{
+	void show()
+	{
+	}
+}
